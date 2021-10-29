@@ -7,3 +7,5 @@ My name is Josue, if you're really interested in the pronounciation here's a vid
 - 📌 My goal for this year is to get an Internship
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started programming because I was interested in Minecraft Plugins
+
+<img src="https://github-readme-stats.vercel.app/api?username=Josue-SR&&show_icons=true&title_color=00A2FF&icon_color=00A2FF&text_color=FFFFFF&bg_color=151515">
